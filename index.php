@@ -34,8 +34,11 @@ require 'head.php';
         </div>
     </header>
 
+
+
     <!-- Main section -->
     <main>
+        <h1>HEJ ZELJKO ER DU VILD</h1>
     </main>
 
 <?php
