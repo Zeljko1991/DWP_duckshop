@@ -16,7 +16,7 @@
         <li><div class="divider"></div></li>
         <li><a class="subheader">Category</a></li>
         <li><a class="waves-effect" href="bigDucks.php"><i class="material-icons">exposure_plus_2</i>Big ducks</a></li>
-        <li><a class="waves-effect" href="#!"><i class="material-icons">exposure_neg_2</i>Small ducks</a></li>
+        <li><a class="waves-effect" href="smallDucks.php"><i class="material-icons">exposure_neg_2</i>Small ducks</a></li>
     </ul>
     <a href="#" data-activates="slide-out" class="button-collapse hide-on-large-only"><i class="material-icons">menu</i></a>
 </nav>

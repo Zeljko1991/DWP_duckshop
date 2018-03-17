@@ -5,32 +5,136 @@
 
 <!-- Main section -->
 <main>
-    <ul class="collection">
-        <li class="collection-item avatar">
-            <img src="images/yuna.jpg" alt="" class="circle">
-            <span class="title">Title</span>
-            <p>First Line <br>Second Line</p>
-            <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
-        </li>
-        <li class="collection-item avatar">
-            <i class="material-icons circle">folder</i>
-            <span class="title">Big Yellow Duck</span>
-            <p>Top quality duck made from the best rubber known to man <br>Something more?</p>
-            <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
-        </li>
-        <li class="collection-item avatar">
-            <i class="material-icons circle green">insert_chart</i>
-            <span class="title">Title</span>
-            <p>First Line <br>Second Line</p>
-            <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
-        </li>
-        <li class="collection-item avatar">
-            <i class="material-icons circle red">play_arrow</i>
-            <span class="title">Title</span>
-            <p>First Line <br>Second Line</p>
-            <a href="#!" class="secondary-content"><i class="material-icons">grade</i></a>
-        </li>
-    </ul>
+    <div class="row">
+        <div class="col s6 m4 l3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/grim.png">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information.
+                        I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s6 m4 l3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/grim.png">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information.
+                        I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s6 m4 l3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/grim.png">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information.
+                        I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s6 m4 l3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/grim.png">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information.
+                        I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col s6 m4 l3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/grim.png">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information.
+                        I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s6 m4 l3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/grim.png">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information.
+                        I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s6 m4 l3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/grim.png">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information.
+                        I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+
+        <div class="col s6 m4 l3">
+            <div class="card">
+                <div class="card-image">
+                    <img src="images/grim.png">
+                    <span class="card-title">Card Title</span>
+                </div>
+                <div class="card-content">
+                    <p>I am a very simple card. I am good at containing small bits of information.
+                        I am convenient because I require little markup to use effectively.</p>
+                </div>
+                <div class="card-action">
+                    <a href="#">This is a link</a>
+                </div>
+            </div>
+        </div>
+    </div>
 </main>
 
 <!-- Footer -->
